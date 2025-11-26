@@ -1,0 +1,103 @@
+clase_id,nombre,nombre_cientifico,cultivo_principal,cultivos_afectados,categoria,severidad,tipo_daño,region,cultivos_afectados_texto
+0,rice leaf roller,rice leaf roller,Arroz,['Arroz'],Cultivos de Grano,Media,Varía según especie,"Asia, Global",Arroz
+1,rice leaf caterpillar,rice leaf caterpillar,Arroz,['Arroz'],Cultivos de Grano,Media,Varía según especie,"Asia, Global",Arroz
+2,paddy stem maggot,paddy stem maggot,Arroz,['Arroz'],Cultivos de Grano,Media,Varía según especie,"Asia, Global",Arroz
+3,asiatic rice borer,asiatic rice borer,Arroz,['Arroz'],Cultivos de Grano,Alta,Varía según especie,"Asia, Global",Arroz
+4,yellow rice borer,yellow rice borer,Arroz,['Arroz'],Cultivos de Grano,Alta,Varía según especie,"Asia, Global",Arroz
+5,rice gall midge,rice gall midge,Arroz,['Arroz'],Cultivos de Grano,Media,Varía según especie,"Asia, Global",Arroz
+6,Rice Stemfly,Rice Stemfly,Arroz,['Arroz'],Cultivos de Grano,Media,Varía según especie,"Asia, Global",Arroz
+7,brown plant hopper,brown plant hopper,Arroz,['Arroz'],Cultivos de Grano,Media,Varía según especie,"Asia, Global",Arroz
+8,white backed plant hopper,white backed plant hopper,Arroz,['Arroz'],Cultivos de Grano,Media,Varía según especie,"Asia, Global",Arroz
+9,small brown plant hopper,small brown plant hopper,Arroz,['Arroz'],Cultivos de Grano,Media,Varía según especie,"Asia, Global",Arroz
+10,rice water weevil,rice water weevil,Arroz,['Arroz'],Cultivos de Grano,Alta,Varía según especie,"Asia, Global",Arroz
+11,rice leafhopper,rice leafhopper,Arroz,['Arroz'],Cultivos de Grano,Media,Varía según especie,"Asia, Global",Arroz
+12,grain spreader thrips,grain spreader thrips,Arroz,['Arroz'],Cultivos de Grano,Media,Varía según especie,"Asia, Global",Arroz
+13,rice shell pest,rice shell pest,Arroz,['Arroz'],Cultivos de Grano,Media,Varía según especie,"Asia, Global",Arroz
+14,grub,grub,Maíz,"['Maíz', 'Sorgo']",Cultivos de Grano,Media,Varía según especie,Global,"Maíz, Sorgo"
+15,mole cricket,mole cricket,Maíz,"['Maíz', 'Sorgo']",Cultivos de Grano,Media,Varía según especie,Global,"Maíz, Sorgo"
+16,wireworm,wireworm,Maíz,"['Maíz', 'Sorgo']",Cultivos de Grano,Media,Varía según especie,Global,"Maíz, Sorgo"
+17,white margined moth,white margined moth,Maíz,"['Maíz', 'Sorgo']",Cultivos de Grano,Media,Varía según especie,Global,"Maíz, Sorgo"
+18,black cutworm,black cutworm,Maíz,"['Maíz', 'Sorgo']",Cultivos de Grano,Media,Varía según especie,Global,"Maíz, Sorgo"
+19,large cutworm,large cutworm,Maíz,"['Maíz', 'Sorgo']",Cultivos de Grano,Media,Varía según especie,Global,"Maíz, Sorgo"
+20,yellow cutworm,yellow cutworm,Maíz,"['Maíz', 'Sorgo']",Cultivos de Grano,Media,Varía según especie,Global,"Maíz, Sorgo"
+21,red spider,red spider,Maíz,"['Maíz', 'Sorgo']",Cultivos de Grano,Media,Varía según especie,Global,"Maíz, Sorgo"
+22,corn borer,corn borer,Maíz,"['Maíz', 'Sorgo']",Cultivos de Grano,Alta,Varía según especie,Global,"Maíz, Sorgo"
+23,army worm,army worm,Maíz,"['Maíz', 'Sorgo']",Cultivos de Grano,Alta,Varía según especie,Global,"Maíz, Sorgo"
+24,aphids,aphids,Maíz,"['Maíz', 'Sorgo']",Cultivos de Grano,Alta,Varía según especie,Global,"Maíz, Sorgo"
+25,Potosiabre vitarsis,Potosiabre vitarsis,Maíz,"['Maíz', 'Sorgo']",Cultivos de Grano,Media,Varía según especie,Global,"Maíz, Sorgo"
+26,peach borer,peach borer,Maíz,"['Maíz', 'Sorgo']",Cultivos de Grano,Alta,Varía según especie,Global,"Maíz, Sorgo"
+27,english grain aphid,english grain aphid,Trigo,"['Trigo', 'Cebada']",Cultivos de Grano,Alta,Varía según especie,Global,"Trigo, Cebada"
+28,green bug,green bug,Trigo,"['Trigo', 'Cebada']",Cultivos de Grano,Media,Varía según especie,Global,"Trigo, Cebada"
+29,bird cherry-oataphid,bird cherry-oataphid,Trigo,"['Trigo', 'Cebada']",Cultivos de Grano,Alta,Varía según especie,Global,"Trigo, Cebada"
+30,wheat blossom midge,wheat blossom midge,Trigo,"['Trigo', 'Cebada']",Cultivos de Grano,Media,Varía según especie,Global,"Trigo, Cebada"
+31,penthaleus major,penthaleus major,Trigo,"['Trigo', 'Cebada']",Cultivos de Grano,Media,Varía según especie,Global,"Trigo, Cebada"
+32,longlegged spider mite,longlegged spider mite,Trigo,"['Trigo', 'Cebada']",Cultivos de Grano,Media,Varía según especie,Global,"Trigo, Cebada"
+33,wheat phloeothrips,wheat phloeothrips,Trigo,"['Trigo', 'Cebada']",Cultivos de Grano,Media,Varía según especie,Global,"Trigo, Cebada"
+34,wheat sawfly,wheat sawfly,Trigo,"['Trigo', 'Cebada']",Cultivos de Grano,Media,Varía según especie,Global,"Trigo, Cebada"
+35,cerodonta denticornis,cerodonta denticornis,Remolacha,"['Remolacha', 'Espinaca']",Cultivos Hortícolas,Media,Varía según especie,"Europa, América","Remolacha, Espinaca"
+36,beet fly,beet fly,Remolacha,"['Remolacha', 'Espinaca']",Cultivos Hortícolas,Media,Varía según especie,"Europa, América","Remolacha, Espinaca"
+37,flea beetle,flea beetle,Remolacha,"['Remolacha', 'Espinaca']",Cultivos Hortícolas,Media,Varía según especie,"Europa, América","Remolacha, Espinaca"
+38,cabbage army worm,cabbage army worm,Remolacha,"['Remolacha', 'Espinaca']",Cultivos Hortícolas,Alta,Varía según especie,"Europa, América","Remolacha, Espinaca"
+39,beet army worm,beet army worm,Remolacha,"['Remolacha', 'Espinaca']",Cultivos Hortícolas,Alta,Varía según especie,"Europa, América","Remolacha, Espinaca"
+40,Beet spot flies,Beet spot flies,Remolacha,"['Remolacha', 'Espinaca']",Cultivos Hortícolas,Media,Varía según especie,"Europa, América","Remolacha, Espinaca"
+41,meadow moth,meadow moth,Remolacha,"['Remolacha', 'Espinaca']",Cultivos Hortícolas,Media,Varía según especie,"Europa, América","Remolacha, Espinaca"
+42,beet weevil,beet weevil,Remolacha,"['Remolacha', 'Espinaca']",Cultivos Hortícolas,Alta,Varía según especie,"Europa, América","Remolacha, Espinaca"
+43,sericaorient alismots chulsky,sericaorient alismots chulsky,Remolacha,"['Remolacha', 'Espinaca']",Cultivos Hortícolas,Media,Varía según especie,"Europa, América","Remolacha, Espinaca"
+44,alfalfa weevil,alfalfa weevil,Alfalfa,"['Alfalfa', 'Trébol', 'Leguminosas']",Cultivos Forrajeros,Alta,Varía según especie,Global,"Alfalfa, Trébol, Leguminosas"
+45,flax budworm,flax budworm,Alfalfa,"['Alfalfa', 'Trébol', 'Leguminosas']",Cultivos Forrajeros,Media,Varía según especie,Global,"Alfalfa, Trébol, Leguminosas"
+46,alfalfa plant bug,alfalfa plant bug,Alfalfa,"['Alfalfa', 'Trébol', 'Leguminosas']",Cultivos Forrajeros,Media,Varía según especie,Global,"Alfalfa, Trébol, Leguminosas"
+47,tarnished plant bug,tarnished plant bug,Alfalfa,"['Alfalfa', 'Trébol', 'Leguminosas']",Cultivos Forrajeros,Media,Varía según especie,Global,"Alfalfa, Trébol, Leguminosas"
+48,Locustoidea,Locustoidea,Alfalfa,"['Alfalfa', 'Trébol', 'Leguminosas']",Cultivos Forrajeros,Media,Varía según especie,Global,"Alfalfa, Trébol, Leguminosas"
+49,lytta polita,lytta polita,Alfalfa,"['Alfalfa', 'Trébol', 'Leguminosas']",Cultivos Forrajeros,Media,Varía según especie,Global,"Alfalfa, Trébol, Leguminosas"
+50,legume blister beetle,legume blister beetle,Alfalfa,"['Alfalfa', 'Trébol', 'Leguminosas']",Cultivos Forrajeros,Media,Varía según especie,Global,"Alfalfa, Trébol, Leguminosas"
+51,blister beetle,blister beetle,Alfalfa,"['Alfalfa', 'Trébol', 'Leguminosas']",Cultivos Forrajeros,Media,Varía según especie,Global,"Alfalfa, Trébol, Leguminosas"
+52,therioaphis maculata Buckton,therioaphis maculata Buckton,Alfalfa,"['Alfalfa', 'Trébol', 'Leguminosas']",Cultivos Forrajeros,Media,Varía según especie,Global,"Alfalfa, Trébol, Leguminosas"
+53,odontothrips loti,odontothrips loti,Alfalfa,"['Alfalfa', 'Trébol', 'Leguminosas']",Cultivos Forrajeros,Media,Varía según especie,Global,"Alfalfa, Trébol, Leguminosas"
+54,Thrips,Thrips,Alfalfa,"['Alfalfa', 'Trébol', 'Leguminosas']",Cultivos Forrajeros,Media,Varía según especie,Global,"Alfalfa, Trébol, Leguminosas"
+55,alfalfa seed chalcid,alfalfa seed chalcid,Alfalfa,"['Alfalfa', 'Trébol', 'Leguminosas']",Cultivos Forrajeros,Media,Varía según especie,Global,"Alfalfa, Trébol, Leguminosas"
+56,Pieris canidia,Pieris canidia,Alfalfa,"['Alfalfa', 'Trébol', 'Leguminosas']",Cultivos Forrajeros,Media,Varía según especie,Global,"Alfalfa, Trébol, Leguminosas"
+57,Apolygus lucorum,Apolygus lucorum,Alfalfa,"['Alfalfa', 'Trébol', 'Leguminosas']",Cultivos Forrajeros,Media,Varía según especie,Global,"Alfalfa, Trébol, Leguminosas"
+58,Limacodidae,Limacodidae,Alfalfa,"['Alfalfa', 'Trébol', 'Leguminosas']",Cultivos Forrajeros,Media,Varía según especie,Global,"Alfalfa, Trébol, Leguminosas"
+59,Viteus vitifoliae,Viteus vitifoliae,Alfalfa,"['Alfalfa', 'Trébol', 'Leguminosas']",Cultivos Forrajeros,Media,Varía según especie,Global,"Alfalfa, Trébol, Leguminosas"
+60,Colomerus vitis,Colomerus vitis,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+61,Brevipoalpus lewisi McGregor,Brevipoalpus lewisi McGregor,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+62,oides decempunctata,oides decempunctata,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+63,Polyphagotars onemus latus,Polyphagotars onemus latus,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+64,Pseudococcus comstocki Kuwana,Pseudococcus comstocki Kuwana,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+65,parathrene regalis,parathrene regalis,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+66,Ampelophaga,Ampelophaga,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+67,Lycorma delicatula,Lycorma delicatula,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+68,Xylotrechus,Xylotrechus,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+69,Cicadella viridis,Cicadella viridis,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+70,Miridae,Miridae,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+71,Trialeurodes vaporariorum,Trialeurodes vaporariorum,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+72,Erythroneura apicalis,Erythroneura apicalis,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+73,Papilio xuthus,Papilio xuthus,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+74,Panonchus citri McGregor,Panonchus citri McGregor,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+75,Phyllocoptes oleiverus ashmead,Phyllocoptes oleiverus ashmead,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+76,Icerya purchasi Maskell,Icerya purchasi Maskell,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+77,Unaspis yanonensis,Unaspis yanonensis,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+78,Ceroplastes rubens,Ceroplastes rubens,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+79,Chrysomphalus aonidum,Chrysomphalus aonidum,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+80,Parlatoria zizyphus Lucus,Parlatoria zizyphus Lucus,Vid,"['Uva', 'Vid']",Cultivos Frutales,Media,Varía según especie,Global,"Uva, Vid"
+81,Nipaecoccus vastalor,Nipaecoccus vastalor,Cítricos,"['Naranja', 'Limón', 'Mandarina', 'Pomelo']",Cultivos Frutales,Media,Varía según especie,"Subtropical, Tropical","Naranja, Limón, Mandarina, Pomelo"
+82,Aleurocanthus spiniferus,Aleurocanthus spiniferus,Cítricos,"['Naranja', 'Limón', 'Mandarina', 'Pomelo']",Cultivos Frutales,Media,Varía según especie,"Subtropical, Tropical","Naranja, Limón, Mandarina, Pomelo"
+83,Tetradacus c Bactrocera minax,Tetradacus c Bactrocera minax,Cítricos,"['Naranja', 'Limón', 'Mandarina', 'Pomelo']",Cultivos Frutales,Media,Varía según especie,"Subtropical, Tropical","Naranja, Limón, Mandarina, Pomelo"
+84,Dacus dorsalis(Hendel),Dacus dorsalis(Hendel),Cítricos,"['Naranja', 'Limón', 'Mandarina', 'Pomelo']",Cultivos Frutales,Media,Varía según especie,"Subtropical, Tropical","Naranja, Limón, Mandarina, Pomelo"
+85,Bactrocera tsuneonis,Bactrocera tsuneonis,Cítricos,"['Naranja', 'Limón', 'Mandarina', 'Pomelo']",Cultivos Frutales,Media,Varía según especie,"Subtropical, Tropical","Naranja, Limón, Mandarina, Pomelo"
+86,Prodenia litura,Prodenia litura,Cítricos,"['Naranja', 'Limón', 'Mandarina', 'Pomelo']",Cultivos Frutales,Media,Varía según especie,"Subtropical, Tropical","Naranja, Limón, Mandarina, Pomelo"
+87,Adristyrannus,Adristyrannus,Cítricos,"['Naranja', 'Limón', 'Mandarina', 'Pomelo']",Cultivos Frutales,Media,Varía según especie,"Subtropical, Tropical","Naranja, Limón, Mandarina, Pomelo"
+88,Phyllocnistis citrella Stainton,Phyllocnistis citrella Stainton,Cítricos,"['Naranja', 'Limón', 'Mandarina', 'Pomelo']",Cultivos Frutales,Media,Varía según especie,"Subtropical, Tropical","Naranja, Limón, Mandarina, Pomelo"
+89,Toxoptera citricidus,Toxoptera citricidus,Cítricos,"['Naranja', 'Limón', 'Mandarina', 'Pomelo']",Cultivos Frutales,Media,Varía según especie,"Subtropical, Tropical","Naranja, Limón, Mandarina, Pomelo"
+90,Toxoptera aurantii,Toxoptera aurantii,Cítricos,"['Naranja', 'Limón', 'Mandarina', 'Pomelo']",Cultivos Frutales,Media,Varía según especie,"Subtropical, Tropical","Naranja, Limón, Mandarina, Pomelo"
+91,Aphis citricola Vander Goot,Aphis citricola Vander Goot,Mango,['Mango'],Cultivos Frutales,Media,Varía según especie,Tropical,Mango
+92,Scirtothrips dorsalis Hood,Scirtothrips dorsalis Hood,Mango,['Mango'],Cultivos Frutales,Media,Varía según especie,Tropical,Mango
+93,Dasineura sp,Dasineura sp,Mango,['Mango'],Cultivos Frutales,Media,Varía según especie,Tropical,Mango
+94,Lawana imitata Melichar,Lawana imitata Melichar,Mango,['Mango'],Cultivos Frutales,Media,Varía según especie,Tropical,Mango
+95,Salurnis marginella Guerr,Salurnis marginella Guerr,Mango,['Mango'],Cultivos Frutales,Media,Varía según especie,Tropical,Mango
+96,Deporaus marginatus Pascoe,Deporaus marginatus Pascoe,Mango,['Mango'],Cultivos Frutales,Media,Varía según especie,Tropical,Mango
+97,Chlumetia transversa,Chlumetia transversa,Mango,['Mango'],Cultivos Frutales,Media,Varía según especie,Tropical,Mango
+98,Mango flat beak leafhopper,Mango flat beak leafhopper,Mango,['Mango'],Cultivos Frutales,Media,Varía según especie,Tropical,Mango
+99,Rhytidodera bowrinii white,Rhytidodera bowrinii white,Mango,['Mango'],Cultivos Frutales,Media,Varía según especie,Tropical,Mango
+100,Sternochetus frigidus,Sternochetus frigidus,Mango,['Mango'],Cultivos Frutales,Media,Varía según especie,Tropical,Mango
+101,Cicadellidae,Cicadellidae,Mango,['Mango'],Cultivos Frutales,Media,Varía según especie,Tropical,Mango
